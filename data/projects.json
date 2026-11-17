@@ -1,0 +1,34 @@
+[
+  {
+    "titulo": "Dashboard de orçamento vs. realizado",
+    "resumo": "Painel mensal de centro de custo com realizado, orçado e variação; abertura por conta e plano de ação. Exemplo de estrutura para substituir o controle em planilhas.",
+    "tags": ["Power BI", "FP&A"],
+    "ano": 2026,
+    "link": "",
+    "exemplo": true
+  },
+  {
+    "titulo": "Modelo de projeção de fluxo de caixa",
+    "resumo": "Projeção de 13 semanas com premissas de recebimento, folha e fornecedores, cenário base e sensibilidade. Exemplo de modelo para apoiar decisão de curto prazo.",
+    "tags": ["Excel", "FP&A"],
+    "ano": 2026,
+    "link": "",
+    "exemplo": true
+  },
+  {
+    "titulo": "Automação de fechamento com VBA",
+    "resumo": "Rotina que consolida extratos exportados do ERP, concilia saldos e gera a base do fechamento. Exemplo de automação para reduzir retrabalho manual.",
+    "tags": ["Excel", "VBA", "Automação"],
+    "ano": 2025,
+    "link": "",
+    "exemplo": true
+  },
+  {
+    "titulo": "Análise de custos industriais",
+    "resumo": "Estudo de custo por produto com rateio de custos indiretos, margem por linha e impacto de preço. Exemplo de análise para decisão de portfólio.",
+    "tags": ["Custos", "FP&A"],
+    "ano": 2025,
+    "link": "",
+    "exemplo": true
+  }
+]
